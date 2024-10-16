@@ -1,0 +1,17 @@
+{
+    "name": "Papa's Games",
+    "short_name": "PapasGames",
+    "description": "Papa's Games Unblocked: Play Papa's Freezeria & More for Free Online | No Download Restaurant Tycoon Simulator",
+    "scope": "/",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
